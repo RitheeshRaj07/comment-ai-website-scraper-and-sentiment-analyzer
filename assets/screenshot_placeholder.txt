@@ -1,0 +1,7 @@
+Put project screenshots here before uploading to GitHub.
+Recommended screenshots:
+1. Home screen
+2. Scraped main post/product description
+3. Sentiment metrics
+4. Charts
+5. Per-comment cards

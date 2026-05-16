@@ -1,0 +1,13 @@
+Suggested demo/testing URLs:
+
+1. Reddit:
+   Use a public Reddit post URL. Reddit JSON scraping usually works best.
+
+2. Amazon:
+   Use an Amazon product page. Amazon may block scraping or change page markup.
+
+3. Generic Webpage:
+   Use a blog/review page with visible comment or review sections.
+
+Note:
+For a live hackathon demo, keep one reliable Reddit URL ready and one generic review page ready.
